@@ -1,0 +1,12 @@
+[INFO ] 2024-06-26 20:34:15.597 [main] log4jExample - This is info message
+[ERROR] 2024-06-26 20:34:15.602 [main] log4jExample - This is an error message
+[WARN ] 2024-06-26 20:34:15.602 [main] log4jExample - This is a warning message
+[FATAL] 2024-06-26 20:34:15.602 [main] log4jExample - This is a fatal message
+[INFO ] 2024-06-26 20:39:50.413 [main] log4jExample - This is info message
+[ERROR] 2024-06-26 20:39:50.418 [main] log4jExample - This is an error message
+[WARN ] 2024-06-26 20:39:50.418 [main] log4jExample - This is a warning message
+[FATAL] 2024-06-26 20:39:50.418 [main] log4jExample - This is a fatal message
+[INFO ] 2024-06-26 20:57:44.539 [main] log4jExample - This is info message
+[ERROR] 2024-06-26 20:57:44.544 [main] log4jExample - This is an error message
+[WARN ] 2024-06-26 20:57:44.545 [main] log4jExample - This is a warning message
+[FATAL] 2024-06-26 20:57:44.545 [main] log4jExample - This is a fatal message

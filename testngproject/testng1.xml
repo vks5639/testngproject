@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Priority Test">
+		<classes>
+			<class name="testngproject.PriorityTest"/>
+		</classes>	
+	</test>
+	<test name="Description Test">
+		<classes>
+			<class name="testngproject.DescriptionTest"/>
+		</classes>	
+	</test>
+	<test name="Timeout Test">
+		<classes>
+			<class name="testngproject.TimeoutTest"/>
+		</classes>	
+	</test>
+	<test name="Groups Test">
+		<classes>
+			<class name="testngproject.GroupsTest"/>
+		</classes>
+	</test>
+	<test name="Enabled Test">
+		<classes>
+			<class name="testngproject.EnabledTest"/>
+		</classes>
+	</test>
+	<test name="Always Run Test">
+		<classes>
+			<class name="testngproject.AlwaysRunTest"/>
+		</classes>
+	</test>
+	<test name="Invocation Count Test">
+		<classes>
+			<class name="testngproject.InvocationCountTest"/>
+		</classes>
+	</test>
+	<test name="Dependency Test">
+		<classes>
+			<class name="testngproject.DependencyTest"/>
+		</classes>
+	</test>
+</suite>
