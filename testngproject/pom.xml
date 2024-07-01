@@ -58,7 +58,7 @@
             <version>2.22.2</version> <!-- Use the version you prefer -->
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>${xmlfiles}</suiteXmlFile>
+                    <suiteXmlFile>${xmlfile}</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
