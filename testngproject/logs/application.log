@@ -1,4 +1,4 @@
-2024-06-26 22:02:02 INFO  log4jExample:15 - This is info message
-2024-06-26 22:02:02 ERROR log4jExample:16 - This is an error message
-2024-06-26 22:02:02 WARN  log4jExample:17 - This is a warning message
-2024-06-26 22:02:02 FATAL log4jExample:18 - This is a fatal message
+2024-07-01 10:05:19 INFO  log4jExample:15 - This is info message
+2024-07-01 10:05:19 ERROR log4jExample:16 - This is an error message
+2024-07-01 10:05:19 WARN  log4jExample:17 - This is a warning message
+2024-07-01 10:05:19 FATAL log4jExample:18 - This is a fatal message

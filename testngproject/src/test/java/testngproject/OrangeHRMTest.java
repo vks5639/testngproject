@@ -82,7 +82,7 @@ public class OrangeHRMTest {
 	
 	@Test
 	public void testInvalidLogin() throws InterruptedException {
-		System.out.println("testInvalidLogin");
+		System.out.println("This is testInvalidLogin");
         WebElement username = driver.findElement(By.name("username"));
         WebElement password = driver.findElement(By.name("password"));
         WebElement loginButton = driver.findElement(By.tagName("button"));
